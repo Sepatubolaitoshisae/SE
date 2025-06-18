@@ -1,2 +1,2 @@
 # SE
-tugas aol se
+Jujur aja kami udah nyerah pak, sumpah capek :v
