@@ -1,2 +1,4 @@
 # SE
-Jujur aja kami udah nyerah pak, sumpah capek :v
+Plant Your Health adalah aplikasi pengingat harian yang dirancang untuk membantu pengguna menjaga kebiasaan sehat, seperti minum air dan minum obat secara teratur. Aplikasi ini tidak hanya memberikan notifikasi sebagai pengingat, tetapi juga menyajikan pendekatan yang menyenangkan melalui visual pohon digital yang akan tumbuh setiap kali pengguna minum air seolah-olah pohon tersebut sedang disiram dan dirawat. Hal ini memberikan motivasi visual agar pengguna terus konsisten dalam menjaga hidrasi.
+
+Selain itu, aplikasi ini juga dilengkapi fitur emergency contact yang memungkinkan pengguna menghubungi kontak darurat secara cepat hanya dengan satu sentuhan. Dengan kombinasi fungsi kesehatan dan tampilan yang interaktif, Plant Your Health hadir sebagai teman sehari-hari untuk menjaga rutinitas dan keselamatan pengguna.
